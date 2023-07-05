@@ -7,7 +7,7 @@
   </header>
     </header>
     </br>
-     <p>🚀 Portfolio :https://shubhamraut187.github.io/</p>
+     <p>https://shubhamraut187.github.io/</p>
 
 
 
