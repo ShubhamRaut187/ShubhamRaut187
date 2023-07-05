@@ -7,7 +7,7 @@
   </header>
     </header>
     </br>
-     <p>https://shubhamraut187.github.io/</p>
+     <p>shubhamraut187.github.io/</p>
 
 
 
