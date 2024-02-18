@@ -11,7 +11,7 @@
 
 
 
-<img align="right" height=300 width=350 src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
+<img align="right" height=300 width=350 src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"/>
   <section>
     <h3 style="color: #333;">💻 I know</h3>
     <ul>
