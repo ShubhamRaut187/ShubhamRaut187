@@ -1,8 +1,8 @@
 
 <body style="font-family: Arial, sans-serif; line-height: 1.5; margin: 0; padding: 20px;">
   <header>
-    <h1 style="color: #333;">👋 Shubham Raut, Welcomes You</h1>
-    <h2 style="color: #333;"> A passionate MERN stack developer. Welcome to my GitHub profile!</h2>
+    <h1 style="color: #333;">👋Hey I am Shubham Raut, Welcome to my Github Profile</h1>
+    <h2 style="color: #333;">👋 Welcome to my GitHub profile! I'm thrilled to have you here. Whether you're a fellow developer, an open-source enthusiast, or just passing by, I hope you find something inspiring and useful during your visit.</h2>
    
   </header>
     </header>
