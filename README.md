@@ -95,7 +95,7 @@
 
   <footer>
     <h2 align="center">Let's build something amazing together! 🚀</h2>
-    
+    <h3>💬 Don't hesitate to reach out if you have any questions, feedback, or just want to say hello. I'm here to help and eager to hear from you.</h3>
   </footer>
 </body>
 
