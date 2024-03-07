@@ -25,7 +25,7 @@
 
 <section>
 <h3 style="color: #333;">🌱Learning Objective</h3>
-<p>Understand the fundamental concepts of web development, including HTML, CSS, and JavaScript.Gain expertise in JavaScript programming, covering topics such as variables, data types, functions, conditional statements, loops, and objects. Acquire knowledge of client-side scripting and DOM manipulation to create dynamic and interactive web pages.</p>
+<p>My objective is to advance my skills as a MERN stack developer and broaden my expertise in web development technologies. I aim to deepen my understanding of MongoDB, Express.js, React.js, and Node.js while also expanding my knowledge across the broader spectrum of web development, including front-end frameworks, back-end technologies, and database management systems. Through hands-on projects, continuous learning, and collaboration with peers, I aspire to become proficient in creating modern, scalable, and user-friendly web applications. Additionally, I seek to explore emerging technologies, best practices, and design patterns to stay at the forefront of web development innovation.</p>
 </section>
   
   
