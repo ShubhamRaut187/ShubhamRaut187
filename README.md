@@ -77,14 +77,22 @@
   </section>
    &nbsp;
  <h2 align="left">Stats</h2>
- 
-  <p>
+
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamRaut187&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamRaut187&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ShubhamRaut187&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamRaut187&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ShubhamRaut187&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
     
 ![](https://github-readme-stats.vercel.app/api?username=ShubhamRaut187&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamRaut187&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamRaut187&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- </p>
+
 
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShubhamRaut187&theme=radical&no-frame=false&no-bg=true&margin-w=4)
