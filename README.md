@@ -7,7 +7,7 @@
   </header>
     </header>
     </br>
-    <h4>I'm a passionate full-stack developer with a knack for building robust and user-friendly web applications. With expertise in HTML5, CSS3, and JavaScript, coupled with libraries like React.js and state management tools like Redux, I specialize in crafting dynamic and responsive user interfaces. On the backend, I rely on Node.js and Express.js to create scalable server-side solutions, while integrating with databases like MongoDB and MySQL for efficient data management. My GitHub repositories showcase my commitment to clean code, best practices, and a passion for continuous learning. Let's connect, collaborate, and create something amazing together! 🔧💻🌟</h4>
+    <p>I'm a passionate full-stack developer with a knack for building robust and user-friendly web applications. With expertise in HTML5, CSS3, and JavaScript, coupled with libraries like React.js and state management tools like Redux, I specialize in crafting dynamic and responsive user interfaces. On the backend, I rely on Node.js and Express.js to create scalable server-side solutions, while integrating with databases like MongoDB and MySQL for efficient data management. My GitHub repositories showcase my commitment to clean code, best practices, and a passion for continuous learning. Let's connect, collaborate, and create something amazing together! 🔧💻🌟</p>
      <p>https://shubhamraut187.github.io/</p>
 
 
