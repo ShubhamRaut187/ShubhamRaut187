@@ -15,8 +15,8 @@
   <section>
     <h3 style="color: #333;">💻 I know</h3>
     <ul>
-      <li> 💻 Front-end: HTML5 | CSS3 | JavaScript | React.js | Redux.js | Chakra</li>
-      <li> 🌱 Back-end: Node.js | Express.js | MongoDB | Mongoose</li>
+      <li> 💻 Front-end: HTML5 | CSS3 | JavaScript | React.js | Redux.js | Chakra | MUI </li>
+      <li> 🌱 Back-end: Node.js | Express.js | MongoDB | Mongoose | OAuth | Redis Caching</li>
       <li> 🚀 Version Control:GitHub</li>
     </ul>
   </section>
@@ -81,7 +81,7 @@
     
   </section>
    &nbsp;
- <h2 align="left">Stats</h2>
+ <h2 align="left">🔢Stats</h2>
 
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShubhamRaut187&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
