@@ -17,17 +17,17 @@
      <img align="right" height=300 width=350 src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"/>
    </div>
    <div>
-      Proficiency in HTML5, CSS3, and JavaScript for frontend development </br>
-      Expertise in React.js for building dynamic user interfaces </br>
-      Experience with Redux for state management in complex applications </br>
-      Skillful use of Chakra UI and Material-UI for crafting visually stunning designs </br>
-      Backend development prowess with Node.js and Express.js </br>
-      Familiarity with MongoDB and Mongoose for database management </br>
-      Implementation of OAuth for secure authentication </br>
-      Knowledgeable in Java for added versatility </br>
-      Proficient in MySQL for relational database management </br>
-      Commitment to clean code and best practices showcased in GitHub repositories </br>
-      Enthusiastic about collaboration and building extraordinary projects together! 🔧💻🌟 </br>
+     • Proficiency in HTML5, CSS3, and JavaScript for frontend development </br>
+     • Expertise in React.js for building dynamic user interfaces </br>
+     • Experience with Redux for state management in complex applications </br>
+     • Skillful use of Chakra UI and Material-UI for crafting visually stunning designs </br>
+     • Backend development prowess with Node.js and Express.js </br>
+     • Familiarity with MongoDB and Mongoose for database management </br>
+     • Implementation of OAuth for secure authentication </br>
+     • Knowledgeable in Java for added versatility </br>
+     • Proficient in MySQL for relational database management </br>
+     • Commitment to clean code and best practices showcased in GitHub repositories </br>
+     • Enthusiastic about collaboration and building extraordinary projects together! 🔧💻🌟 </br>
    </div>
  </div>
 
