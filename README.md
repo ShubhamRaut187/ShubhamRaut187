@@ -15,8 +15,8 @@
 
 ## 🎒Here's what I bring to the table...
  <div>
-   <div>
-     <img align="right" height=300 width=350 src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" borderRadius/>
+   <div style="borderRadius: 8px;">
+     <img align="right" height=300 width=350 src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" style="borderRadius: 8px;"/>
    </div>
    <div>
      • Proficiency in HTML5, CSS3, and JavaScript for frontend development </br>
