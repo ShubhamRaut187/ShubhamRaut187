@@ -11,7 +11,7 @@
     <p align="justify">I'm a passionate full-stack developer with a knack for building robust and user-friendly web applications. With expertise in HTML5, CSS3, and JavaScript, coupled with libraries like React.js and state management tools like Redux, I specialize in crafting dynamic and responsive user interfaces. On the backend, I rely on Node.js and Express.js to create scalable server-side solutions, while integrating with databases like MongoDB and MySQL for efficient data management. My GitHub repositories showcase my commitment to clean code, best practices, and a passion for continuous learning. Let's connect, collaborate, and create something amazing together! 🔧💻🌟</p>
      <p>https://shubhamraut187.github.io/</p>
  <div style="borderRadius: 8px;">
-     <img height=400 width=1000 src="https://i.pinimg.com/1200x/68/e0/48/68e0483eb5273624d74554dfc62457c4.jpg" style="borderRadius: 8px;"/>
+     <img height=500 width=1000 src="https://i.pinimg.com/1200x/68/e0/48/68e0483eb5273624d74554dfc62457c4.jpg" style="borderRadius: 8px;"/>
    </div>
 
 ## 🎒Here's what I bring to the table...
