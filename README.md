@@ -1,9 +1,8 @@
 
 <body style="font-family: Arial, sans-serif; line-height: 1.5; margin: 0; padding: 20px;">
   <header>
-    <h1 style="color: #333;">👋Hey I am Shubham Raut, Welcome to my Github Profile</h1>
-    <h3 style="color: #333;">Full Stack Developer | Building Scalable Web Applications | Node.js • React • MongoDB</h3>
-    <h4 style="color: #333;">I'm thrilled to have you here. Whether you're a fellow developer, an open-source enthusiast, or just passing by, I hope you find something inspiring and useful during your visit.</h4>
+    <h1 style="color: #333;">👋Hello I am Shubham Raut, Welcome to my Github</h1>
+    <h4 style="color: #333;">I am a full stack developer, building scalable web applications. I'm thrilled to have you here. Whether you're a fellow developer, an open-source enthusiast, or just passing by, I hope you find something inspiring and useful during your visit.</h4>
    
   </header>
     </header>
