@@ -11,7 +11,7 @@
     <p align="justify">I'm a passionate full-stack developer with a knack for building robust and user-friendly web applications. With expertise in HTML5, CSS3, and JavaScript, coupled with libraries like React.js and state management tools like Redux, I specialize in crafting dynamic and responsive user interfaces. On the backend, I rely on Node.js and Express.js to create scalable server-side solutions, while integrating with databases like MongoDB and MySQL for efficient data management. My GitHub repositories showcase my commitment to clean code, best practices, and a passion for continuous learning. Let's connect, collaborate, and create something amazing together! 🔧💻🌟</p>
      <p>https://shubhamraut187.github.io/</p>
  <div style="borderRadius: 8px;">
-     <img height=200 width=750 src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" style="borderRadius: 8px;"/>
+     <img height=200 width=750 src="https://i.pinimg.com/1200x/68/e0/48/68e0483eb5273624d74554dfc62457c4.jpg" style="borderRadius: 8px;"/>
    </div>
 
 ## 🎒Here's what I bring to the table...
@@ -105,11 +105,11 @@
  <h2 align="left">🔢Stats</h2>
 
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamRaut187&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamRaut187&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ShubhamRaut187&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamRaut187&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamRaut187&theme=dracula&hide_border=false" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamRaut187&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ShubhamRaut187&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=ShubhamRaut187&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 </div>
 
 
